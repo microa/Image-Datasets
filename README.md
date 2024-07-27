@@ -24,7 +24,7 @@
     </li>
     <li>Image Caption/
       <ul>
-
+        EMPTY
       </ul>
     </li>
   </ul>
