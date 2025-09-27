@@ -1,7 +1,7 @@
 # Vision-Datasets
 
 
-### Sort-by-task
+## Image-Datasets (Sort-by-task)
 
 <div style="font-family:monospace;">
   <ul>
@@ -37,9 +37,7 @@
 
 
 
-## Video-Datasets
-
-### Sort-by-task
+## Video-Datasets (Sort-by-task)
 
 <div style="font-family:monospace;">
   <ul>
